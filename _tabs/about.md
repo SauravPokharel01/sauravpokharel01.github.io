@@ -1,5 +1,6 @@
 ---
 title: About
+order: 1
 layout: page
 permalink: /about/
 icon: fas fa-id-badge
