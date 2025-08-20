@@ -1,6 +1,6 @@
 ---
 title: "My First Walkthrough"
-date: 2025-08-20 10:00:00 +0800
+date: 2025-08-20 
 categories: [Walkthroughs]
 tags: [ctf, pwn.college,tryhackme]
 ---
