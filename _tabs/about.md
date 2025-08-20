@@ -1,5 +1,9 @@
 ---
 title: About
+layout: page
+permalink: /about/
+---
+
 ---
 
 # Hello, I'm Saurav Pokharel 👋
