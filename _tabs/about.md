@@ -4,8 +4,6 @@ layout: page
 permalink: /about/
 ---
 
----
-
 # Hello, I'm Saurav Pokharel 👋
 
 Welcome to my digital space! I am a dedicated **cybersecurity and IT enthusiast** currently gaining practical experience as an **IT Intern**. This website serves as my public notebook, where I share projects, practical walkthroughs, and insights into the world of IT and cybersecurity.
@@ -27,4 +25,3 @@ Feel free to connect with me via:
 
 - [GitHub](https://github.com/SauravPokharel01)  
 - [LinkedIn](https://www.linkedin.com/in/sauravpokharel01)  
----
