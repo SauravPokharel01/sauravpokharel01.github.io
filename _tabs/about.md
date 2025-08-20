@@ -23,6 +23,6 @@ Feel free to connect with me via:
 
 - [GitHub](https://github.com/SauravPokharel01)  
 - [LinkedIn](https://www.linkedin.com/in/sauravpokharel01)  
-- Email: sauravpokharel14@gmail.com
+
 
 ---
