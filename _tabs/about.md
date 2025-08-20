@@ -2,6 +2,7 @@
 title: About
 layout: page
 permalink: /about/
+icon: fas fa-id-badge
 ---
 
 # Hello, I'm Saurav Pokharel 👋
